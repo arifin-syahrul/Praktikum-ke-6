@@ -51,7 +51,11 @@ Data yang disimpan mencakup: nama, nim, nilai_tugas, nilai_uts, nilai_uas, dan n
 
 8. End
 
-## Gambar Flowchart Program 
+## B. Gambar Flowchart Program 
+
+![Flowchart 6 drawio](https://github.com/user-attachments/assets/9739e8c1-f9d5-4b7c-b9ba-d014b0af6169)
+
+## C. Menampilkan Program Yang telah dibuat menggunakan program "Perulangan" dan "List"
 
 
 
