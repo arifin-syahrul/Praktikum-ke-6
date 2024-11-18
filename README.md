@@ -1,5 +1,16 @@
 # Praktikum-ke-6
 
+### Nama : Arifin Syahrul Azhadi Harahap
+
+### NIM : 352310965
+
+### Kelas : IE.23.C.13
+
+### Mata Kuliah : Program Komputer + Praktek
+
+### Dosen : Agung Nugroho, S.Kom., M.Kom.
+_________________________________________________________________________________________________________________________________________________________________________________________
+
 ## "Membuat program sederhana pada pyhton menggunakan "List"
 
 ## A. Algoritma Program
